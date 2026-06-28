@@ -1,2 +1,4 @@
-# Projects
-Due to NDA and contractual obligations, I’m unable to publish the source code of the commercial projects I’ve worked on. However, I’ve prepared brief visual presentations to showcase the scale, functionality, and overall scope of these projects.
+> ### 🔒 Commercial Projects & NDA Notice
+> Due to Non-Disclosure Agreements (NDA) and contractual obligations, the source code for my commercial work remains in private repositories. 
+> 
+> To demonstrate the scale, architecture, and overall scope of these systems, I have prepared detailed visual presentations and case studies below.
